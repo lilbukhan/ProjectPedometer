@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="TextRegister"><u>Register now</u></string>
+    <string name="TextLogin"><u>Sign in</u></string>
+
+    <string name="large_text"><u>1111111</u></string>
+    <string name="action_settings"><u>22222</u></string>
+
+</resources>

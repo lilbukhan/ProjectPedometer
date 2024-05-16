@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "612604271183",
+    "firebase_url": "https://pedometer-85734-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pedometer-85734",
+    "storage_bucket": "pedometer-85734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612604271183:android:7ae11fe9f1658a538f683a",
+        "android_client_info": {
+          "package_name": "com.example.pedometer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmb9AIDCCc9NNFx3mZn0bmf7FplreN0W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
